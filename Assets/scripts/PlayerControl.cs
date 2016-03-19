@@ -12,7 +12,6 @@ public class PlayerControl : MonoBehaviour {
         if (Input.GetKey(KeyCode.UpArrow))
         {
             transform.Translate(Vector2.up * 4 * Time.deltaTime);
-            
 
         }
         if (Input.GetKey(KeyCode.DownArrow))
