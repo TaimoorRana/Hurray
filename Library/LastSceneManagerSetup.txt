@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GameJam.unity
+- path: C:/Unityminiproject/Assets/Cowboy.unity
   isLoaded: 1
   isActive: 1
