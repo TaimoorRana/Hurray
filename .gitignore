@@ -20,7 +20,6 @@ ExportedObj/
 *.DS_Store
 /ProjectSettings/
 /Library/*.*
-*.unity
 
 # Unity3D generated meta files
 *.pidb.meta
