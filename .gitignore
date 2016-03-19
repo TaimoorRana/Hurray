@@ -18,7 +18,9 @@ ExportedObj/
 *.booproj
 *.svd
 *.DS_Store
-ProjectSettings/
+/ProjectSettings/
+/Library/
+
 
 
 # Unity3D generated meta files
